@@ -1,0 +1,76 @@
+(WordNode "louse") ; [6851704910591994798][1]
+
+(ConceptNode "bug" (stv 0.000004 0.001186)) ; [3025002244806539610][1]
+
+(WordNode "bug") ; [3026040183783116612][1]
+
+(ConceptNode "worm" (stv 0.000001 0.001186)) ; [3034854265665130962][1]
+
+(WordNode "worm") ; [3035892204641707964][1]
+
+(WordNode "ladybug") ; [5330812747891542976][1]
+
+(ConceptNode "cockroach" (stv 0.000002 0.001186)) ; [845212417304248061][1]
+
+(WordNode "cockroach") ; [846250356280825063][1]
+
+(ConceptNode "bee" (stv 0.000017 0.001186)) ; [3608870867408050154][1]
+
+(WordNode "bee") ; [3609908806384627156][1]
+
+(ConceptNode "wasp" (stv 0.000004 0.001186)) ; [6756867046360062670][1]
+
+(WordNode "wasp") ; [6757904985336639672][1]
+
+(ConceptNode "earwig" (stv 0.000000 0.001186)) ; [6259733980298038696][1]
+
+(WordNode "earwig") ; [6260771919274615698][1]
+
+(ConceptNode "butterfly" (stv 0.000014 0.001186)) ; [6978339269631913620][1]
+
+(WordNode "butterfly") ; [6979377208608490622][1]
+
+(ConceptNode "moth" (stv 0.000005 0.001186)) ; [6614927321832728838][1]
+
+(WordNode "moth") ; [6615965260809305840][1]
+
+(WordNode "dragonfly") ; [5633506687950991687][1]
+
+(ConceptNode "grasshopper" (stv 0.000002 0.001186)) ; [2296410369131741143][1]
+
+(WordNode "grasshopper") ; [2297448308108318145][1]
+
+(ConceptNode "swarm" (stv 0.000004 0.001186)) ; [7461583608663622204][1]
+
+(WordNode "swarm") ; [7462621547640199206][1]
+
+(WordNode "insecticide") ; [8108094719390833105][1]
+
+(ConceptNode "systemic_insecticide" (stv 0.000000 0.001186)) ; [1195550970973618835][1]
+
+(ConceptNode "pesticide" (stv 0.000013 0.001186)) ; [8849268581226590591][1]
+
+(WordNode "pesticide") ; [8850306520203167593][1]
+
+(ConceptNode "poison" (stv 0.000007 0.001186)) ; [6884512392673097658][1]
+
+(WordNode "poison") ; [6885550331649674660][1]
+
+(ConceptNode "insect" (stv 0.000024 0.001186)) ; [4667078222656291929][1]
+
+(WordNode "insect") ; [4668116161632868931][1]
+
+(ConceptNode "poisonous" (stv 0.000004 0.001186)) ; [4802872189812293029][1]
+
+(ConceptNode "kill_you" (stv 0.000000 0.001186)) ; [3126541122722870108][1]
+
+(ConceptNode "arsenic" (stv 0.000003 0.001186)) ; [9057197451655274271][1]
+
+(WordNode "arsenic") ; [9058235390631851273][1]
+
+(ConceptNode "toxicity" (stv 0.000003 0.001186)) ; [4477698726596126422][1]
+
+(WordNode "toxicity") ; [4478736665572703424][1]
+
+(ConceptNode "lethal" (stv 0.000009 0.001186)) ; [6331620110358400750][1]
+
