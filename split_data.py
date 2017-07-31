@@ -23,14 +23,14 @@ uuid_array = []
 sti_array = []
 time_stamp_array = []
 
-histograms_dir = '/home/roboroot6/ECAN/dist/histograms'
+histograms_dir = '/home/roboroot8/STIanalysis/histograms'
 histograms_file_path = 'histograms/sti_hist_exp_'
 
-time_series_dir = '/home/roboroot6/ECAN/dist/time_series'
-time_series_file_path = '/home/roboroot6/ECAN/dist/time_series/sti_time_sreies_exp_'
+time_series_dir = '/home/roboroot8/STIanalysis/time_series'
+time_series_file_path = '/home/roboroot8/STIanalysis/time_series/sti_time_sreies_exp_'
 
-iit_path = '/home/roboroot6/ECAN/dist/iit'
-iit_file_path = '/home/roboroot6/ECAN/dist/iit/iit_exp_'
+iit_path = '/home/roboroot8/STIanalysis/iit'
+iit_file_path = '/home/roboroot8/STIanalysis/iit/iit_exp_'
 
 #Declares the paths to the inputfile. It will takle user input, or input from shell scripts.
 input_file_path = sys.argv[1]
