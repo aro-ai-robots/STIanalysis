@@ -2,7 +2,9 @@
 Visualiztion for STI timeseries.
 
 After running the insect-poison experiment an STIDUMP file should be created.  
+
 To analyze this data:
+
 	cd STIanalysis 
 	chmod 777 split_data.py
 	gedit split_data.py
